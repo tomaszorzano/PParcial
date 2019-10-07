@@ -1,0 +1,114 @@
+# depslib dependency file v1.0
+1568673145 source:d:\zorzano\practica-parcial1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1568673145 d:\zorzano\practica-parcial1\funciones.h
+
+1568673865 source:d:\zorzano\practica-parcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"Autores.h"
+
+1568675884 source:d:\zorzano\practica-parcial1\autores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Autores.h"
+	"funciones.h"
+
+1568674979 d:\zorzano\practica-parcial1\autores.h
+
+1568676139 source:d:\zorzano\practica-parcial1\libros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Autores.h"
+	"Libros.h"
+	"funciones.h"
+
+1568675995 d:\zorzano\practica-parcial1\libros.h
+
+1570471121 source:c:\users\t13774\desktop\facultad\practica-parcial1\autores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Autores.h"
+	"funciones.h"
+
+1570471121 c:\users\t13774\desktop\facultad\practica-parcial1\autores.h
+
+1570471121 c:\users\t13774\desktop\facultad\practica-parcial1\funciones.h
+
+1570471121 source:c:\users\t13774\desktop\facultad\practica-parcial1\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"fecha.h"
+
+1570471121 c:\users\t13774\desktop\facultad\practica-parcial1\fecha.h
+
+1568743885 source:c:\users\t13774\desktop\facultad\practica-parcial1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1568759782 source:c:\users\t13774\desktop\facultad\practica-parcial1\libros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"Autores.h"
+	"Libros.h"
+
+1570471121 c:\users\t13774\desktop\facultad\practica-parcial1\libros.h
+
+1570471149 source:c:\users\t13774\desktop\facultad\practica-parcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"Autores.h"
+	"Libros.h"
+	"Fecha.h"
+	"Socios.h"
+	"Prestamos.h"
+
+1568747229 source:c:\users\t13774\desktop\facultad\practica-parcial1\socios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"Fecha.h"
+	"Socios.h"
+
+1568746819 c:\users\t13774\desktop\facultad\practica-parcial1\socios.h
+
+1568761757 c:\users\t13774\desktop\facultad\practica-parcial1\prestamos.h
+
+1568761757 source:c:\users\t13774\desktop\facultad\practica-parcial1\prestamos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"Autores.h"
+	"Libros.h"
+	"Fecha.h"
+	"Socios.h"
+	"Prestamos.h"
+
